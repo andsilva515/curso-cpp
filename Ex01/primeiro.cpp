@@ -1,6 +1,12 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello Word!\nEstudo de Programacao.";
+    
+    cout << "Hello Word!\nEstudo de Programacao.";
+
+    system("pause");
+
     return 0;
 }
