@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     
-    cout << "Hello Word!\nEstudo de Programacao.";
+    cout << "Hello Word!\nEstudo de Programacao.\n";
 
     system("pause");
 
